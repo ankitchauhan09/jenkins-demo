@@ -1,1 +1,1 @@
-print("Hello world")()dfasfasd9()
+print("
