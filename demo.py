@@ -1,1 +1,1 @@
-print("lol this is a updatge")
+print("lol this is a update")
